@@ -89,7 +89,7 @@ Real-time chat application with microservices architecture
 
 ---
 
-⭐️ From [yourusername](https://github.com/qdev6868)
+⭐️ From [qdev6868](https://github.com/qdev6868)
 
 <!-- Visitor counter -->
 ![Visitor Count](https://profile-counter.glitch.me/qdev6868/count.svg)
